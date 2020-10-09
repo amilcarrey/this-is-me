@@ -6,33 +6,40 @@
       <div
         class="md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center"
       >
-        <h1 class="font-5xl sm:text-4xl mb-4 text-white tracking-wider">
-          <span class="font-hairline">FULLSTACK </span>
-          <br class="hidden lg:inline-block" />
-          <span class="font-black">ENGINEER</span>
+        <h1 class="font-4xl md:text-6xl mb- text-white">
+          <span class="font-hairline tracking-wider">FULLSTACK </span>
+          <!-- <br class="hidden lg:inline-block" /> -->
+          <span class="font-bold">ENGINEER</span>
         </h1>
         <p class="mb-8 leading-relaxed">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima sit facilis temporibus expedita, eius atque quam cupiditate, neque ipsam adipisci veniam doloribus nemo, qui repellat magnam soluta sapiente quidem. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda sequi veritatis soluta excepturi perferendis ut error! Fugit, autem! Maxime fugit voluptate vel minima cum cumque dolorum quas tenetur rerum nam.
+          I'm a 25-year-old systems engineer and passionate about technology,
+          based in Buenos Aires. Not only I have experience in development and
+          design systems but also in cloud computing, a little bit of BI and
+          project management. I don't like the feeling of not knowing something.
+          However, I like to use this feeling as a motor to continue growing
+          professionally, learning new things, and improve day by day.
         </p>
         <div class="flex justify-center">
-          <button
+          <span
             class="inline-flex text-white bg-white border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
           >
-          </button>
-          <button
+          </span>
+          <span
             class="ml-4 inline-flex text-gray-400 bg-blue-700 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
           >
-          </button>
-          <button
+          </span>
+          <span
             class="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
           >
-          </button>
+          </span>
         </div>
       </div>
-      <div class="flex justify-center h-45 lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
+      <div
+        class="flex justify-center h-auto lg:max-w-xl lg:w-full md:w-1/2 w-5/6"
+      >
         <img
-          class="object-contain object-center rounded"
-          src="../static/logotipo.svg"
+          class="h-56 md:h-92 rounded-full"
+          src="../static/profile.jpg"
           alt="amilcarrey logotipo"
         />
       </div>
