@@ -8,7 +8,7 @@
       <a class="hover:text-white">Contact</a>
     </nav> -->
     <a class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-white lg:items-center lg:justify-center mb-4 md:mb-0">
-      <img src="../static/logo.svg" alt="amilcarrey logo" class="h-16 w-16 object-contain" />      
+      <img src="../static/logo.svg" alt="amilcarrey logo" class="h-16 w-16 md:h-16 md:w-16 object-contain" />      
     </a>
     <!-- <div class="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
       <button class="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
