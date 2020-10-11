@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7990a55-cee2-450e-b51e-5d752c10ddf2/deploy-status)](https://app.netlify.com/sites/amilcarrey/deploys)
 # this-is-me
 
 ## Build Setup
