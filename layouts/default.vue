@@ -1,10 +1,10 @@
 <template>
-  <div class="flex flex-col min-h-screen">
+  <div class="flex flex-col min-h-screen max-h-screen">
     <Nav />
     <main class="flex-grow flex">
       <Nuxt />
-    </main>
-    <Footer />
+    </main>  
+     <Footer />
   </div>
 </template>
 
