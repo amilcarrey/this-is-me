@@ -1,5 +1,5 @@
 <template>
-  <section class="text-gray-500 bg-gray-900 body-font ">
+  <section class="text-gray-500 bg-gray-900 body-font flex-grow">
     <div
       class="container mx-auto flex px-5 py-8 md:py-24 md:flex-row flex-col items-center"
     >
@@ -14,12 +14,7 @@
         </h1>
         <!-- DESCRIPTION -->
         <p class="mb-8 leading-relaxed">
-          I'm a 25-year-old systems engineer and passionate about technology,
-          based in Buenos Aires. Not only I have experience in development and
-          design systems but also in cloud computing, a little bit of BI and
-          project management. I don't like the feeling of not knowing something.
-          However, I like to use this feeling as a motor to continue growing
-          professionally, learning new things, and improve day by day.
+          I'm a systems engineer and passionate about technology. Lorem ipsum dolor sit amet consectetur adipisicing elit. At, provident, facere fuga quo sunt excepturi quis possimus, voluptas corrupti omnis vero natus magnam eaque accusamus. Voluptas architecto et est fugiat.
         </p>
 
         <div class="flex justify-center">
